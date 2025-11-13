@@ -1,0 +1,16 @@
+# Requirements for Abhidhamma PDF Translation
+
+# PDF processing
+PyMuPDF>=1.23.0
+
+# Image processing
+Pillow>=10.0.0
+
+# OCR
+pytesseract>=0.3.10
+
+# Translation
+deep-translator>=1.11.4
+
+# Optional: for better progress display
+tqdm>=4.66.0
